@@ -38,17 +38,22 @@ html,
       margin-left: 25px;
       
     }
+    .content p{
+        margin-top: 20px;
+    }
     .quote1{
         font-size: 60px;
         line-height: 0px;
         text-align: start;
         margin-left: 20px;
+        margin-top: 50px;
     }
     .quote2{
         font-size: 60px;
         line-height: 0px;
         text-align: end;
         margin-right: 20px;
+        margin-top: 50px;
     }
     .testimonialBox{
         position: relative;
@@ -77,6 +82,7 @@ html,
         width: 100%;
         object-fit: cover;
         border-radius: 20px;
+        margin-top: 50px;
     }
     .testimonialBox .details h3{
         margin-left: 50px;
